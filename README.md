@@ -2,7 +2,7 @@
 
 > **A standardized framework for managing context windows in Large Language Models**
 
-[![Li#### 🔬 **Research Contributions**
+🔬 **Research Contributions**
 - Additional academic research analysis and comparative studies
 - Industry case studies and real-world deployment experiences  
 - Performance benchmarks and evaluation frameworks
